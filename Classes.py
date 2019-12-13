@@ -17,6 +17,8 @@ class Person:
 person_1 = Person("Mudi","Sheikh", "mudisheikh@outlook.com")
 
 print(person_1.fullName())
+
+print(person_1.firstName)
         
         
      
